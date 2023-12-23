@@ -1,0 +1,22 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: vue@1.0.0
+npm ERR! Found: vue-loader@13.7.3
+npm ERR! node_modules/vue-loader
+npm ERR!   dev vue-loader@"^13.0.5" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer vue-loader@"^15.7.0" from @storybook/vue-webpack5@7.6.6
+npm ERR! node_modules/@storybook/vue-webpack5
+npm ERR!   dev @storybook/vue-webpack5@"7.6.6" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! C:\Users\miras\AppData\Local\npm-cache\_logs\2023-12-23T17_27_11_367Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: C:\Users\miras\AppData\Local\npm-cache\_logs\2023-12-23T17_27_11_367Z-debug-0.log
